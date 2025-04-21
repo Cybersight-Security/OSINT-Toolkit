@@ -1,6 +1,6 @@
 <div align="center">
 
-# [**OSINT Toolkit**](https://thatsinewave.github.io/OSINT-Toolkit)
+# [**OSINT Toolkit**](https://cybersight-security.github.io/OSINT-Toolkit)
 
 Welcome to the OSINT Toolkit repository! This repository serves as a comprehensive catalog for tools and websites useful in Open Source Intelligence (OSINT) investigations. Whether you're a cybersecurity professional, a journalist, or just curious about information gathering, this toolkit provides resources to aid your endeavors.
 
@@ -56,7 +56,7 @@ Thank you for helping to make this OSINT toolkit a valuable resource for the com
 
 </div>
 
-## 1. [**Digital Forensics and Security**](https://thatsinewave.github.io/OSINT-Toolkit/digital-forensics.html):
+## 1. [**Digital Forensics and Security**](https://cybersight-security.github.io/OSINT-Toolkit/digital-forensics.html):
 
 1. [**General Image Forensics**](https://29a.ch/photo-forensics/#forensic-magnifier/):
    - A comprehensive image forensics tool offering a variety of features. It allows users to scrutinize and analyze digital images, making it valuable for detecting alterations or hidden details within images.
@@ -82,7 +82,7 @@ Thank you for helping to make this OSINT toolkit a valuable resource for the com
 8. [**Hudson Rock**](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools):
    - Free cybercrime/infostealer intelligence toolkit to check if a specific username, email address, or domain was compromised in a global Infostealer malware attack. 
 
-## 2. [**Discord OSINT Tools**](https://thatsinewave.github.io/OSINT-Toolkit/discord-osint.html):
+## 2. [**Discord OSINT Tools**](https://cybersight-security.github.io/OSINT-Toolkit/discord-osint.html):
 
 1. [**ToolsCord**](https://toolscord.com/):
    - An all-in-one toolbox designed for gathering information about servers, bots, and users on Discord. ToolsCord offers a comprehensive set of tools to assist users in exploring and analyzing Discord-related data, making it a versatile resource for server and user investigation.
@@ -102,7 +102,7 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 6. [**DiscordLeaks by Unicorn Riot**](https://discordleaks.unicornriot.ninja/discord/):
    - DiscordLeaks is a platform that covers leaked messages from servers compromised in the past. It provides constant updates and focuses on servers associated with white supremacism and neo-nazis. DiscordLeaks can be used to uncover interesting facts about individuals, offering insights into their affiliations and activities within Discord communities.
 
-## 3. [**General Information Gathering**](https://thatsinewave.github.io/OSINT-Toolkit/general-info.html):
+## 3. [**General Information Gathering**](https://cybersight-security.github.io/OSINT-Toolkit/general-info.html):
 
 1. [**Bellingcat's Online Investigation Toolkit**](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ):
    - This online toolkit, curated by Bellingcat, provides resources for online investigations. It includes a variety of tools and techniques for researching and analyzing information on the internet.
@@ -134,7 +134,7 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 10. [**Insecam**](http://www.insecam.org/):
     - Insecam hosts a global camera database, allowing users to access publicly available camera feeds from around the world. It raises awareness about the importance of securing surveillance cameras and privacy.
 
-## 4. [**Live Analysis on URLs and Files**](https://thatsinewave.github.io/OSINT-Toolkit/live-analysis.html):
+## 4. [**Live Analysis on URLs and Files**](https://cybersight-security.github.io/OSINT-Toolkit/live-analysis.html):
 
 1. [**Triage URL and File Analysis Dashboard**](https://tria.ge/dashboard/):
     - Triage provides a user-friendly URL and File Analysis Dashboard, empowering users to evaluate the security status of websites. By submitting a URL or uploading a file, users gain access to detailed information about potential threats. The dashboard includes historical data, associated risks, and insights that aid in identifying malicious online content.
@@ -148,7 +148,7 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 4. [**Media Analyzer Pro**](https://media-analyzer.pro/app):
     - Media Analyzer Pro offers advanced analysis tools for various media formats, including images, videos, and documents. Users can analyze media files for potential security threats, such as embedded malware or malicious code
 
-## 5. [**Open Source Intelligence**](https://thatsinewave.github.io/OSINT-Toolkit/open-source-intel.html):
+## 5. [**Open Source Intelligence**](https://cybersight-security.github.io/OSINT-Toolkit/open-source-intel.html):
 
 1. [**OSINTLeak**](https://beta.osintleak.com/dashboard/):
     - An email breach finder tool that helps users identify if their email accounts have been compromised. OSINTLeak provides insights into potential security risks associated with email addresses.
@@ -174,7 +174,7 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 8. [**GeoSpy.AI**](https://geospy.ai/):
     - A tool that utilizes artificial intelligence for image location analysis. GeoSpy.AI assists in determining the geographical location of images, making it valuable for geospatial intelligence and investigation purposes.
 
-## 6. [**URL Safety Checks**](https://thatsinewave.github.io/OSINT-Toolkit/url-safety.html):
+## 6. [**URL Safety Checks**](https://cybersight-security.github.io/OSINT-Toolkit/url-safety.html):
 
 1. [**VirusTotal URL Scanner**](https://www.virustotal.com/gui/home/url/):
    - VirusTotal's URL Scanner enables users to assess the security status of URLs by scanning them with multiple antivirus engines. The platform provides a thorough analysis of submitted URLs, checking for potential malware, viruses, and other security issues. It offers a comprehensive report to aid users in understanding the safety of the provided web addresses.
@@ -197,7 +197,7 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 7. [**Sucuri SiteCheck**](https://sitecheck.sucuri.net): 
    - Sucuri SiteCheck is a comprehensive security scanner that analyzes websites for malware, blacklist status, website errors, and out-of-date software. Users can enter a URL to check its security status and receive detailed reports on any issues found.
 
-## 7. [**Reporting Tools**](https://thatsinewave.github.io/OSINT-Toolkit/reporting.html):
+## 7. [**Reporting Tools**](https://cybersight-security.github.io/OSINT-Toolkit/reporting.html):
 
 1. [**Discord Report Center**](https://discord.com/report):
     - The Discord Report Center provides users with a direct channel to report illegal activity from other users. This method bypasses the automated Right-Click > Report method. However, user feedback suggests that the effectiveness of this reporting system can be limited, with responses from Discord support being infrequent. Despite its accessibility, users may experience delays and may not receive timely resolutions to their reports. Please note that this information is based on user experiences and may be subject to change.
@@ -208,12 +208,12 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 3. [**Phish.Report**](https://phish.report):
     - Phish.Report is a community-driven platform dedicated to reporting and analyzing phishing emails. Users can submit suspicious emails, allowing others to review and assess potential threats. By crowd sourcing information about phishing attempts, Phish.Report helps raise awareness and provides valuable insights into the tactics used by cybercriminals.
 
-## 8. [**SINEWAVE's Tools**](https://thatsinewave.github.io/OSINT-Toolkit/sinewave-tools.html):
+## 8. [**SINEWAVE's Tools**](https://cybersight-security.github.io/OSINT-Toolkit/sinewave-tools.html):
 
-1. [**Malicious URLs DB**](https://thatsinewave.github.io/Malicious-URLs-DB); 
+1. [**Malicious URLs DB**](https://cybersight-security.github.io/Malicious-URLs-DB); 
     - This serves as a curated JSON file containing lists of websites associated with malicious activities with a nice web interface that allows you to analyse the data. The list is compiled based on personal findings of the repository owner and are intended to help identify and mitigate threats posed by these sites.
 
-2. [**Password Generator**](https://thatsinewave.github.io/Password-Generator):
+2. [**Password Generator**](https://cybersight-security.github.io/Password-Generator):
     - This repository contains a simple password generator application implemented in Python using the CustomTkinter library for the graphical user interface as a script or directly in your browser. The application allows users to generate up to random passwords with various customizable options.
 
 3. [**Discord Invite Finder**](https://github.com/ThatSINEWAVE/Discord-Invite-Finder):
@@ -237,28 +237,28 @@ Description: Unfurl is a tool specifically designed for extracting additional ti
 9. [**DNS-Filters**](https://github.com/ThatSINEWAVE/DNS-Filters):
     - This repository houses a curated collection of DNS filter lists, accumulated over several years. These lists are designed to enhance network security and efficiency by blocking unwanted or harmful domains.
 
-10. [**The Discord Invite Project**](https://thatsinewave.github.io/Discord-Invite-Project):
+10. [**The Discord Invite Project**](https://cybersight-security.github.io/Discord-Invite-Project):
     - This repository serves as an educational and research platform exploring the concept of creating a database to track and analyze Discord invite links. The project aims to assist in Open Source Intelligence (OSINT) investigations by providing tools to identify and study Discord servers, including potentially malicious ones.
 
 11. [**Discord Honeypot System - CONCEPT**](https://github.com/ThatSINEWAVE/Discord-Honeypot-System)
     - The Discord Honeypot System is a sophisticated monitoring tool designed to enhance server security and moderation efficiency. Utilizing multiple Discord accounts, each running in dedicated Virtual Machines (VMs) or Docker containers, this Python-based system automates the surveillance of direct message (DM) activity. Its primary objective is to detect, capture, and relay suspicious or unwanted DM communications to a specific channel within a designated server for further action by the moderation team.
 
-12. [**Discord Identity Generator**](https://thatsinewave.github.io/Discord-Identity):
+12. [**Discord Identity Generator**](https://cybersight-security.github.io/Discord-Identity):
     - This project is a Discord profile identity generator hosted on GitHub Pages. It enables users to create random Discord profiles with unique usernames, about me sections, nicknames, pronouns, and profile images with up to 100 quadrillion unique profiles.
 
-## 9. [**Toolkit FAQ**](https://thatsinewave.github.io/OSINT-Toolkit/toolkit-faq.html)
+## 9. [**Toolkit FAQ**](https://cybersight-security.github.io/OSINT-Toolkit/toolkit-faq.html)
 - The Toolkit FAQ comprises a comprehensive collection of curated lists, each tailored to specific aspects of digital investigation, cybersecurity, and online threat mitigation. From digital forensics to open-source intelligence (OSINT) gathering, each list offers a wealth of resources and platforms aimed at empowering professionals in their efforts to ensure digital security and integrity. These lists encompass tools and services designed to streamline processes, enhance analysis, and facilitate reporting on various online threats. Whether it's investigating data breaches, analyzing URLs for potential threats, or managing security within Discord communities, the Toolkit FAQ provides a diverse range of solutions to address the evolving challenges of cybersecurity and digital investigations.
 - The contents of this page can also be viewed in the [**Toolkit-FAQ.md file**](https://github.com/ThatSINEWAVE/OSINT-Toolkit/blob/main/faq/Toolkit-FAQ.md)
 
-## 10. [**Steam Scam FAQ**](https://thatsinewave.github.io/OSINT-Toolkit/steam-scams.html)
+## 10. [**Steam Scam FAQ**](https://cybersight-security.github.io/OSINT-Toolkit/steam-scams.html)
 - The Steam FAQ offers a comprehensive guide aimed at equipping users with the knowledge and strategies necessary to safeguard against common scams and fraudulent activities encountered on the Steam platform. Covering topics ranging from confidence scams to trade scams, the FAQ provides users with valuable insights into the deceptive tactics employed by scammers and offers practical advice on how to identify and avoid falling victim to such schemes. With a focus on promoting skepticism, vigilance, and proactive reporting, the FAQ empowers Steam users to protect their accounts and belongings, contributing to a safer and more secure gaming environment for all.
 - The contents of this page can also be viewed in the [**Steam-Scam-FAQ.md file**](https://github.com/ThatSINEWAVE/OSINT-Toolkit/blob/main/faq/Steam-Scams-FAQ.md)
 
-## 11. [**Discord Scam FAQ**](https://thatsinewave.github.io/OSINT-Toolkit/discord-scams.html)
+## 11. [**Discord Scam FAQ**](https://cybersight-security.github.io/OSINT-Toolkit/discord-scams.html)
 - The Discord FAQ is a comprehensive guide aimed at informing users about prevalent scams and fraudulent activities encountered within the Discord community. Covering a wide array of topics such as impersonation, free Nitro scams, QR code and download scams, compromised accounts, and reporting malicious content/behavior, the FAQ equips users with essential knowledge and strategies to safeguard themselves against online threats. By promoting skepticism, vigilance, and proactive reporting, it fosters a safer and more secure environment for Discord users, enhancing trust and confidence within the platform's vibrant community.
 - The contents of this page can also be viewed in the [**Discord-Scam-FAQ.md file**](https://github.com/ThatSINEWAVE/OSINT-Toolkit/blob/main/faq/Discord-Scams-FAQ.md)
 
-## [**License**](https://thatsinewave.github.io/OSINT-Toolkit/license.html)
+## [**License**](https://cybersight-security.github.io/OSINT-Toolkit/license.html)
 
 This repository is provided under the [**GLWTS Public License**](https://github.com/ThatSINEWAVE/OSINT-Toolkit/blob/main/LICENSE). 
 
